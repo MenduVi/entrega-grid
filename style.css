@@ -28,19 +28,6 @@ body {
     " header main time"
     "alumni footer footer";
 }
-/* 
-@media (max-width: 1500px) {
-  body {
-    grid-template-columns: repeat(2, 1fr);
-    grid-template-rows: repeat(4, 1fr);
-    grid-template-areas:
-      "header school"
-      "student main"
-      "time alumni"
-      "footer footer";
-  }
-} */
-
 
 
 header {
