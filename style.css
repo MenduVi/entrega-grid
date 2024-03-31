@@ -28,7 +28,7 @@ body {
     " header main time"
     "alumni footer footer";
 }
-
+/* 
 @media (max-width: 1500px) {
   body {
     grid-template-columns: repeat(2, 1fr);
@@ -39,7 +39,7 @@ body {
       "time alumni"
       "footer footer";
   }
-}
+} */
 
 
 
